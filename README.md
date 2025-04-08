@@ -6,7 +6,7 @@
   [![npm version](https://badge.fury.io/js/%40aintent%2Fcore.svg)](https://badge.fury.io/js/%40aintent%2Fcore)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![Discord](https://img.shields.io/discord/your-discord-server-id.svg?label=Discord&logo=discord)](https://discord.gg/aintent)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/aintent?style=social)](https://twitter.com/aintent)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/aintent?style=social)](https://twitter.com/aintent_)
 </div>
 
 ## 🌟 The Future of AI Integration is Here
