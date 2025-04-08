@@ -1,7 +1,7 @@
 # Aintent Framework 🚀
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aintent/.github/main/aintent-logo.png" alt="Aintent Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/aintent/.github/blob/main/aintent-logo.png" alt="Aintent Logo" width="200"/>
   
   [![npm version](https://badge.fury.io/js/%40aintent%2Fcore.svg)](https://badge.fury.io/js/%40aintent%2Fcore)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
