@@ -30,14 +30,14 @@ At the heart of it all:
 - AI assistants with full audit trails  
 - Dynamic, user-owned APIs
 
-## 🧪 Status
+## 📄 Whitepapers
 
-Aintent is currently under active development by [Axes Labs](https://helloaxes.com).  
-We’re building in public — whitepaper, architecture, and dev tools are dropping fast.
+Explore our foundational thinking and architecture:
 
-## 📄 Read the Whitepaper
+- 📘 [Intention is All You Need](https://github.com/aintent/whitepapers/blob/main/Intention%20is%20all%20you%20need.pdf)  
+- 📙 [A Framework for Intent-Centric Computation](https://github.com/aintent/whitepapers/blob/main/A%20Framework%20for%20Intent-Centric%20Computation.pdf)
 
-→ [Intention is All You Need (PDF)](link-to-be-added)
+These papers outline the core principles of intent decomposition, execution verifiability, and decentralized automation.
 
 ## 🧑‍💻 Contribute
 
@@ -53,4 +53,3 @@ Open issues. Propose ideas. Fork the world.
 ---
 
 Built by dreamers. Backed by proofs. Powered by intention.
-
